@@ -1,4 +1,4 @@
-# 3D Platformer Game - A Litte Cat Advanture
+# 3D Platformer Game - Little Cat Adventure
 
 **`--- Team Project ---`**
 
